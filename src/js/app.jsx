@@ -1,7 +1,3 @@
-/* eslint-disable react/prefer-stateless-function */
-/* Disabling react/prefer-stateless-function because hot reloading won't work
-   with a stateless func */
-
 import React from 'react';
 import HelloWorld from './components/hello-world';
 
