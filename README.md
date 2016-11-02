@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/benpink/webpack-hot-reload-react-boilerplate.svg?style=shield)](https://circleci.com/gh/benpink/webpack-hot-reload-react-boilerplate)
+
 # Webpack (with hot reload) / react boilerplate
 
 Simple boilerplate for a react app using webpack to build and hot module reloading to develop.
