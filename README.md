@@ -4,15 +4,15 @@ Simple boilerplate for a react app using webpack to build and hot module reloadi
 
 Complete list:
 
- - Express
- - Webpack
- - Babel
- - React
- - Sass
- - Mocha (with chai)
- - ESLint (based on airbnb)
- - CircleCI config
- - Heroku config
+ - [Express](http://expressjs.com/)
+ - [Webpack](https://webpack.github.io/)
+ - [Babel](https://babeljs.io/)
+ - [React](https://facebook.github.io/react/)
+ - [Sass](http://sass-lang.com/)
+ - [Mocha](https://mochajs.org/) (with [chai](http://chaijs.com/))
+ - [ESLint](http://eslint.org/) (based on [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb))
+ - Example [CircleCI](https://circleci.com/) config
+ - Basic [Heroku](https://heroku.com) config
 
 ### Start dev server:
 
